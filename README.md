@@ -34,5 +34,5 @@ rvvyvofaygynnetjtry[kegzdkleyezldyeyn]erioueyndgksxetku[tsarhnyrbaubgmteiw]lbcsk
 
 # To Run
 
- 'Install node modules using - npm i'
+ ' Install node modules using - npm i '
 ### Run the program - node patternMatcher
